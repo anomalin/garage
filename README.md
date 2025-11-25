@@ -21,3 +21,5 @@ GET /vehicles
 
 GET /customers
 
+POST /connect?customerId=1&vehicleId=1
+
