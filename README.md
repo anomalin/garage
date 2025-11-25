@@ -1,10 +1,11 @@
 # GARAGE API
 
-Ladda ner eller klona projektet till din dator.<br> 
-Packa upp och navigera till projektets rotkatalog. <br>
-Kör scriptet garage_script.sh. 
+1. Ladda ner eller klona projektet till din dator.<br> 
+2. Packa upp och navigera till projektets rotkatalog. <br>
+3. Kör scriptet garage_script.sh. 
 
-Servern öppnar på http://localhost:8080
+Servern öppnar på:<br> 
+http://localhost:8080
 
 ## ENDPOINTS
 Testa API:ets endpoints med valfri API-klient. 
